@@ -25,6 +25,8 @@
 |||| [Basic visualizer for multiple time series data (https://www.hyperate.io/api) |
 |||| [wavesurfer.js](https://wavesurfer-js.org/) |
 
+<br>
+
 ### Hardware
 
 | Keeney | Hamilton | Alsuhaibani | Reference |
