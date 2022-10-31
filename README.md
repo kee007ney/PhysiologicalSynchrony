@@ -31,5 +31,8 @@
 
 | Keeney | Hamilton | Alsuhaibani | Reference |
 |--------|---------|-----------|-------|
-|||| [Wearable option](https://cardiogram.com/science/) |
+|||| [Cardiogram](https://cardiogram.com/science/) |
+|||| [Empatica](https://www.empatica.com/en-eu/research/e4/) |
+
+<br>
 
